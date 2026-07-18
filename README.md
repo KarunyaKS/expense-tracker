@@ -75,6 +75,18 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 JWT_EXPIRE=30d
 ```
+Screenshots
+
+Login Page 
+<img width="521" height="666" alt="Screenshot 2026-07-18 135220" src="https://github.com/user-attachments/assets/77f61258-92ba-44c2-bde2-747e08ac289a" />
+
+Dashboard
+<img width="1912" height="712" alt="Screenshot 2026-07-18 135251" src="https://github.com/user-attachments/assets/040b376d-b7ac-485a-8236-d2986749c2be" />
+
+<img width="1890" height="763" alt="Screenshot 2026-07-18 135403" src="https://github.com/user-attachments/assets/ce628151-0604-43b3-b058-f92f61f3c4cf" />
+
+<img width="1903" height="732" alt="Screenshot 2026-07-18 135432" src="https://github.com/user-attachments/assets/1e96f067-4a52-41fa-b978-670761fffadd" />
+
 
 ## Future Improvements
 
